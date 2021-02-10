@@ -9,7 +9,7 @@ print(5+6)
 #3)Dorbe Henrijs
 
 #4)Dunajevs Mârtiòð
-print(fmod(4,15))
+print(4/2)
 #5)Gulbis Kristaps
 
 #6)Kalniòa Agnese
